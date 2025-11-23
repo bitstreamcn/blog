@@ -2,157 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/installation/linux/archlinux/</loc>
+    <loc>https://www.wde.net.cn/docs/installation/linux/archlinux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/arch-linux/</loc>
+    <loc>https://www.wde.net.cn/tags/arch-linux/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/guide/</loc>
+    <loc>https://www.wde.net.cn/series/guide/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/installation/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/installation/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/introduction/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/installation/linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/installation/linux/ubuntu/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ubuntu/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/installation/windows/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/windows/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.wde.net.cn/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://www.wde.net.cn/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/tags/"
+                href="https://www.wde.net.cn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.wde.net.cn/categories/installation/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/docs/installation/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/docs/introduction/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/docs/installation/linux/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/tags/linux/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/docs/installation/linux/ubuntu/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/tags/ubuntu/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/docs/installation/windows/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/tags/windows/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/tags/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://www.wde.net.cn/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/categories/"
+                href="https://www.wde.net.cn/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://www.wde.net.cn/categories/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/"
+                href="https://www.wde.net.cn/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/series/"
+                href="https://www.wde.net.cn/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://www.wde.net.cn/docs/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.wde.net.cn/series/</loc>
+    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wde.net.cn/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://www.wde.net.cn/series/"
+                />
+  </url><url>
+    <loc>https://www.wde.net.cn/authors/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/authors/"
+                href="https://www.wde.net.cn/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/authors/"
+                href="https://www.wde.net.cn/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/crop/</loc>
+    <loc>https://www.wde.net.cn/tags/crop/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fill/</loc>
+    <loc>https://www.wde.net.cn/tags/fill/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/filters/</loc>
+    <loc>https://www.wde.net.cn/tags/filters/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fit/</loc>
+    <loc>https://www.wde.net.cn/tags/fit/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/image/</loc>
+    <loc>https://www.wde.net.cn/categories/image/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/2022/07/more-image-processing-methods/</loc>
+    <loc>https://www.wde.net.cn/news/2022/07/more-image-processing-methods/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/news/</loc>
+    <loc>https://www.wde.net.cn/series/news/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/razonyang/</loc>
+    <loc>https://www.wde.net.cn/authors/razonyang/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>https://www.wde.net.cn/news/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2022/04/readme/</loc>
+    <loc>https://www.wde.net.cn/blog/2022/04/readme/</loc>
     <lastmod>2022-04-17T16:35:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/readme/</loc>
+    <loc>https://www.wde.net.cn/tags/readme/</loc>
     <lastmod>2022-04-17T16:35:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://www.wde.net.cn/blog/</loc>
     <lastmod>2022-04-17T16:35:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.wde.net.cn/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/2022/</loc>
+    <loc>https://www.wde.net.cn/archives/2022/</loc>
   </url><url>
-    <loc>http://localhost:1313/offline/</loc>
+    <loc>https://www.wde.net.cn/offline/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://www.wde.net.cn/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://www.wde.net.cn/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://www.wde.net.cn/search/</loc>
   </url>
 </urlset>

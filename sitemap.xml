@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/zh-hans/sitemap.xml</loc>
+    <loc>https://www.wde.net.cn/zh-hans/sitemap.xml</loc>
     
       <lastmod>2022-09-06T22:42:23+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://www.wde.net.cn/en/sitemap.xml</loc>
     
   </sitemap>
   

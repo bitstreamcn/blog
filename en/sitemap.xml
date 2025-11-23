@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/authors/</loc>
+    <loc>https://www.wde.net.cn/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/authors/"
+                href="https://www.wde.net.cn/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/authors/"
+                href="https://www.wde.net.cn/en/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://www.wde.net.cn/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/categories/"
+                href="https://www.wde.net.cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://www.wde.net.cn/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/series/</loc>
+    <loc>https://www.wde.net.cn/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/series/"
+                href="https://www.wde.net.cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/"
+                href="https://www.wde.net.cn/en/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://www.wde.net.cn/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/tags/"
+                href="https://www.wde.net.cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://www.wde.net.cn/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://www.wde.net.cn/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="http://localhost:1313/"
+                href="https://www.wde.net.cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://www.wde.net.cn/en/"
                 />
   </url>
 </urlset>
